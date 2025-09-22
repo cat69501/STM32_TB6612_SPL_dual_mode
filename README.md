@@ -590,8 +590,6 @@ int main(void)
 
 - 项目作者：Qi Hao Ran
 - 项目网址：https://ben0724-ace.github.io/  
-- 技术支持：[邮箱地址]
-
----
+- 技术支持：haoran.qi0724@gmail.com
 
 *最后更新：2025年1月*
